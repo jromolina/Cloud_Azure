@@ -1,5 +1,5 @@
 # Cloud_Azure
-Localizando Serviços por Categoria na Azure
+Como localizar-se nos Serviços por Categoria na Azure
 
 # Crie a conta na plataforma Azure
 
